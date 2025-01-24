@@ -1,0 +1,13 @@
+{
+  "categoryType": "Vehicle",
+  "Levels": [
+    {
+      "difficulty": "easy",
+      "wordLength": 3,
+      "words": [
+        { "word": "Bus", "length": 3, "Status": 0 },
+        { "word": "Car", "length": 3, "Status": 0 }
+      ]
+    }
+  ]
+}
