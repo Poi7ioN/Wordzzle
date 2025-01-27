@@ -1,5 +1,7 @@
 {
-  "Animals": "v1.0.0",
-  "Birds":   "v1.0.0",
-  "Vehicle": "v1.0.1"
+  "FileVersions": [
+    { "CategoryName": "Animals", "CategoryVersion": "v1.0.0" },
+    { "CategoryName": "Birds", "CategoryVersion": "v1.0.0" },
+    { "CategoryName": "Vehicle", "CategoryVersion": "v1.0.1" }
+  ]
 }
