@@ -3,6 +3,7 @@
     { "CategoryName": "Animals", "CategoryVersion": "v1.0.1" },
     { "CategoryName": "Birds", "CategoryVersion": "v1.0.0" },
     { "CategoryName": "Vehicle", "CategoryVersion": "v1.0.1" },
-    { "CategoryName": "Foods", "CategoryVersion": "v1.0.0" }
+    { "CategoryName": "Foods", "CategoryVersion": "v1.0.0" },
+    { "CategoryName": "Games", "CategoryVersion": "v1.0.0" }
   ]
 }
