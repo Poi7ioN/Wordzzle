@@ -1,0 +1,104 @@
+{
+  "FileVersions": [
+    {
+      "CategoryName": "Vocabulary",
+      "categoryId": 0,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Animals",
+      "categoryId": 1,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Fruits",
+      "categoryId": 2,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Vegetables",
+      "categoryId": 3,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Sports",
+      "categoryId": 4,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Geography",
+      "categoryId": 5,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Fashion",
+      "categoryId": 6,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Movies",
+      "categoryId": 7,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Foods",
+      "categoryId": 8,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Superheroes",
+      "categoryId": 9,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Nature",
+      "categoryId": 10,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "VideoGames",
+      "categoryId": 11,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Brands",
+      "categoryId": 12,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Vehicles",
+      "categoryId": 13,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Vegetation",
+      "categoryId": 14,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Music",
+      "categoryId": 15,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Technology",
+      "categoryId": 16,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Occupations",
+      "categoryId": 17,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Fitness",
+      "categoryId": 18,
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Fantasy",
+      "categoryId": 19,
+      "CategoryVersion": "v1.0.0"
+    }
+  ]
+}
