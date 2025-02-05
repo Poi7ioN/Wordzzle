@@ -1,0 +1,84 @@
+{
+  "FileVersions": [
+    {
+      "CategoryName": "Animals",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Brands",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Fantasy",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Fashion",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Fitness",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Foods",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Fruits",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Geography",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Movies",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Music",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Nature",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Occupations",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Sports",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Superheroes",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Technology",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Vegetables",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Vegetation",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Vehicles",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "VideoGames",
+      "CategoryVersion": "v1.0.0"
+    },
+    {
+      "CategoryName": "Vocabulary",
+      "CategoryVersion": "v1.0.0"
+    }
+  ]
+}
