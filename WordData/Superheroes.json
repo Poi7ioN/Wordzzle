@@ -1,0 +1,1578 @@
+{
+  "categoryType": "Superheroes",
+  "categoryId": 9,
+  "Levels": [
+    {
+      "difficulty": "Novice",
+      "wordLength": 3,
+      "words": [
+        {
+          "word": "ace",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "arc",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bat",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bot",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cyb",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dna",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "elf",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "exo",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gas",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gem",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "god",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "goo",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hex",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ion",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jet",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "key",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lab",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "map",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "men",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mix",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "neb",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "orb",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pod",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "psi",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pun",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rad",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ray",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rep",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rip",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sin",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "son",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "spy",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sub",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sun",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tek",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tin",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tok",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ufo",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vfx",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "war",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "web",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "xon",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zen",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zod",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zon",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "wordLength": 4,
+      "words": [
+        {
+          "word": "hulk",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ally",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "anti",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "atom",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "aura",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bane",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "belt",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bioh",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bolt",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cape",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "code",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "core",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dark",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "doom",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "face",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fang",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fate",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "flux",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fuel",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gaia",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gene",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "glow",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hero",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hope",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ikon",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "iron",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jest",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jump",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jynn",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mask",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "meta",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mind",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "moon",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nova",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "omeg",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "path",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "plan",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "port",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "psiu",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rage",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "robo",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sage",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "scar",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sent",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "soul",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "suit",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "time",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "warp",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "wing",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "xeno",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zone",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Medium",
+      "wordLength": 5,
+      "words": [
+        {
+          "word": "titan",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "alien",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "armor",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "blast",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "blaze",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "brain",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "charm",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "clone",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "comet",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cyber",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "death",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "drone",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ember",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ether",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "flare",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "force",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gamma",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ghost",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "glove",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "havoc",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "heart",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "human",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hyper",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "infer",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "joker",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "judge",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "krang",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "laser",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "light",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "magic",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "metal",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nexus",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "night",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "power",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "prime",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "psych",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pulse",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "radar",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "shock",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "speed",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "steel",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "storm",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "super",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "venom",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vigil",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Hard",
+      "wordLength": 6,
+      "words": [
+        {
+          "word": "marvel",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "matrix",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "meteor",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mutant",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "shadow",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "action",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "astral",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "battle",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "beacon",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bullet",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cosmic",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cyborg",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "danger",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "doctor",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dragon",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "energy",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "entity",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "escape",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "falcon",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "future",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "galaxy",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gadget",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "genius",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "guardi",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "heroix",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hunter",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "impact",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "infern",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jester",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jumper",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "legend",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mental",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nightw",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "plasma",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "proton",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rescue",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rocket",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "savior",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "shield",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sirens",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "speedr",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "strike",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "techno",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vision",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "wizard",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cosmos",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Advance",
+      "wordLength": 7,
+      "words": [
+        {
+          "word": "psychic",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "reactor",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "stealth",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "warrior",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "android",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "avenger",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "battler",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "blaster",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "captain",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "centaur",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "circuit",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cyborgs",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dangerx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "destroy",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "drifter",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "electro",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "elitech",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "emerald",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "galaxyx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gravity",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "havocer",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "invader",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "javelin",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "justice",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lantern",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lightni",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lookout",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "magneta",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "megafox",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mercury",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mutantx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nebular",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "neutron",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nimrodx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "outlawx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "paladin",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "phantom",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "quantum",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rampage",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "specter",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "spartan",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "striker",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "supreme",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "trickst",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "unearth",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vigilax",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "warlock",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Master",
+      "wordLength": 8,
+      "words": [
+        {
+          "word": "guardian",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "immortal",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "magnetic",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "predator",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sentinel",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "velocity",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "adaption",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "anomalyx",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "champion",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "galactic",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hologram",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "infinity",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "invincix",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kryptoni",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "metahuma",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "omniscix",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "phenomfx",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "teleport",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "universe",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    }
+  ]
+}

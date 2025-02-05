@@ -1,0 +1,1638 @@
+{
+  "categoryType": "Foods",
+  "categoryId": 8,
+  "Levels": [
+    {
+      "difficulty": "Novice",
+      "wordLength": 3,
+      "words": [
+        {
+          "word": "ale",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bun",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "can",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cup",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dip",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "eat",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "egg",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fat",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fig",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gin",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ham",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ice",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jam",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jus",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "keg",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lad",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "leg",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mix",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nut",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oil",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oat",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pea",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pie",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pop",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pot",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "raw",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rib",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "roe",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rum",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rye",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sip",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "soy",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sub",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sum",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sup",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tea",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tip",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tub",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "van",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "yam",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "yay",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "yum",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zen",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zip",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "wordLength": 4,
+      "words": [
+        {
+          "word": "tofu",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "aged",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bake",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "beef",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "beer",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bite",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "boil",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cake",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chai",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chef",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chip",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "clam",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cook",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "crab",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dish",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dine",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "duck",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "feta",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fish",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "food",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fork",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "glut",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "herb",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kiwi",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lamb",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lime",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "malt",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mash",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "meal",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "milk",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mint",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nach",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "naan",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oats",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pear",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pint",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pork",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rice",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "roll",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "salt",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "soda",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "soup",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "stir",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "taco",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tart",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "teas",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vine",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "wine",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zest",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "miso",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Medium",
+      "wordLength": 5,
+      "words": [
+        {
+          "word": "fries",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "adobo",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bagel",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bacon",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "basil",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "beans",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "berry",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bento",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bread",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "broth",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "candy",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chard",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chili",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "churn",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cider",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "clove",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cocoa",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cream",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "curry",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "daisy",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "donut",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "drink",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "figgy",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "flour",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "froth",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fudge",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "grape",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "guava",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "honey",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jelly",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "juice",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kebab",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lemon",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mango",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "maple",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "melon",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mochi",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nacho",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "olive",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "onion",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pasta",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "peach",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pecan",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pesto",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pizza",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ramen",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sauce",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "shake",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "steak",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "syrup",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cumin",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gravy",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gyoza",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "halwa",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sushi",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Hard",
+      "wordLength": 6,
+      "words": [
+        {
+          "word": "garlic",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "orange",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "almond",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "banana",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "barley",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "batter",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "butter",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cajeta",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cashew",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "celery",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cherry",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chives",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "coffee",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cookie",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "crepes",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "drinks",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fennel",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "finger",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ginger",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kebabs",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kimchi",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lattes",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lemons",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "macchi",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mochas",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "muffin",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nutmeg",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pastry",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pepper",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "relish",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "saucer",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "peanut",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sprout",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "yogurt",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Advance",
+      "wordLength": 7,
+      "words": [
+        {
+          "word": "biscuit",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "caramel",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cheddar",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cracker",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "filling",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "granola",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ketchup",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lettuce",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pickles",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "spinach",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "avocado",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "burrito",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cabbage",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "carrots",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chicken",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chimich",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chutney",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "coconut",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cooking",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "creamer",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "croquet",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cruller",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "custard",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fennels",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fritter",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "garnish",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hamburg",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hotdogs",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kimchee",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lasagna",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "macaron",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mustard",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oatmeal",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "parfait",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "parsley",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "popover",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "protein",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pudding",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "seafood",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "truffle",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vanilla",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Master",
+      "wordLength": 8,
+      "words": [
+        {
+          "word": "espresso",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "frosting",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "barbecue",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "biscuits",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "crackers",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "desserts",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dressing",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "grilling",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "meatball",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "molasses",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pancakes",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "appetize",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "basilica",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "calamari",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cappucci",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cherrype",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chestnut",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chipotle",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chutneys",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cinnamon",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cocktail",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "coleslaw",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "croutons",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "custards",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "doughnut",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dumpling",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "flatbrea",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hazelnut",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "icecream",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jalapeno",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lasagnas",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lemonade",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "macaroni",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "milkshak",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "parfaits",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "peppermi",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "popovers",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "raviolis",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sandwich",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "truffles",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    }
+  ]
+}

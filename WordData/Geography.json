@@ -1,0 +1,2190 @@
+{
+  "categoryType": "Geography",
+  "categoryId": 5,
+  "Levels": [
+    {
+      "difficulty": "Novice",
+      "wordLength": 3,
+      "words": [
+        {
+          "word": "bay",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bog",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cay",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dam",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "del",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dip",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "don",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "est",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fen",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fjr",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fog",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gul",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ice",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "isb",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jut",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "key",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kmh",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lat",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "map",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mud",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nam",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nrt",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ora",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "par",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "peg",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pit",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pod",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pun",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "qom",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ram",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rio",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rom",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "run",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sag",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sea",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sip",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sky",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sod",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sun",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tag",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ten",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tib",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ton",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tor",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tow",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "van",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vat",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vil",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vos",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "war",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "wax",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "yam",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "yay",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "yen",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zip",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "wordLength": 4,
+      "words": [
+        {
+          "word": "alps",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "asia",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bank",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bayu",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "berm",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bora",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "burm",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cape",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "city",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dale",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dune",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "east",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "euro",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fjrd",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ford",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gulf",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hill",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ibex",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ikon",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "isle",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "java",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "june",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "khan",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lake",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lava",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "loch",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mesa",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nile",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nova",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "peak",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pole",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "port",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "puna",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "reef",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "roma",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sand",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sean",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "step",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tide",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "town",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "trek",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tund",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "upla",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vale",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "venm",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vila",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "volk",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "wadi",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "west",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "wind",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "yard",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "york",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zulu",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oslo",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Medium",
+      "wordLength": 5,
+      "words": [
+        {
+          "word": "basin",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cliff",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "delta",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oasis",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "plain",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rhine",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ridge",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "spain",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "abyss",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "alban",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "atlas",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "beach",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bluff",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bogot",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "brook",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "burma",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "butte",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cairo",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "china",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "crete",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "donga",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dunes",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "earth",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fjord",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ghana",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gully",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hills",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "india",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "isles",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "italy",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "japan",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kenya",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "khmer",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "knoll",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lagos",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lagun",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ledge",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "loess",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "macau",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "major",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "manas",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mesas",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "namib",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "niger",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ocean",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pahoe",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "paris",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "plate",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "prair",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "quito",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "range",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "riyad",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "riyal",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sahar",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "siena",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "slope",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tonga",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vales",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "venet",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "water",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "woods",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Hard",
+      "wordLength": 6,
+      "words": [
+        {
+          "word": "madrid",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sydney",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "africa",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "alpsfx",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "amazon",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "andean",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "arabic",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "arctic",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "atolls",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bavria",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bogota",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "brazil",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "canyon",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "capria",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cascad",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "crater",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "desert",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "doline",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dunesx",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "estuar",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "europe",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "forest",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fjords",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "geyser",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gulley",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "himala",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "icecap",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "island",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "isthmu",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jordan",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jungle",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "khmerx",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lagoon",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "loessa",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "meando",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "meridi",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mexico",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "monaco",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "morocc",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mounta",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nation",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "newdel",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "norway",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oceanx",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oxbowx",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pahoeh",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pampas",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "parana",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pebbly",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pennin",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "persia",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "plains",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "platea",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "qattax",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rapids",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ridges",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sahara",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "savann",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "steppe",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "summit",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Advance",
+      "wordLength": 7,
+      "words": [
+        {
+          "word": "climate",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "glacier",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "holland",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "horizon",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "albania",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "america",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "andorra",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "armenia",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "atlases",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "atlanti",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "austria",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "azimuth",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "badland",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "belarus",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "belgium",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bristol",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "burundi",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "capital",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "channel",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chimbor",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cologne",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "contour",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "croatia",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cumulus",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cyprusx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "denmark",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "egyptia",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "estonia",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "finland",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "georgia",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "geysers",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "greenla",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "guyanax",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "highlan",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "iceland",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ireland",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "isthmus",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jamaica",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "khazakh",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "latitud",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lesotho",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lithuan",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "maltafx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mariana",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "meadowx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "monsoon",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "montana",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "moraine",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "namibia",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nepalfx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nigeria",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "normand",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oceansx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oxfordx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pacific",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pampasx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "peakfox",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "polandx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "qatarfx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ridgelo",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rockies",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "siberia",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sloveni",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "straits",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "andesmt",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Master",
+      "wordLength": 8,
+      "words": [
+        {
+          "word": "drainage",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "africana",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "algerian",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "americas",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "antartic",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "arabians",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "atlantic",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "australi",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "azoresfx",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "badlands",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "balkanfx",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "banglore",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "barcelon",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "boulders",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "brussels",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "canyonfx",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "carpathi",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chernoby",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "climateg",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "croatian",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "danubian",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "deadseax",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "englandx",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "equatori",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "finlandi",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "foothill",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gibralta",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "grasslan",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "greenlan",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "highland",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "himalaya",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "icebergs",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "indoneia",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "isthmusa",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kazakhst",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kingston",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lakeland",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "latitude",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lithuani",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "longitue",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "madagasc",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "malayian",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "maltesex",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "marianas",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mediterr",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "monsoons",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "montanaa",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "moroccan",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "namibian",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "newzeala",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "northsea",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oceaniax",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oxbowlak",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "paragnes",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "plateaux",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "polandes",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "qattaras",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rockymtn",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "saharand",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1752 @@
+{
+  "categoryType": "Nature",
+  "categoryId": 10,
+  "Levels": [
+    {
+      "difficulty": "Novice",
+      "wordLength": 3,
+      "words": [
+        {
+          "word": "air",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ant",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ash",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bay",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bee",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bud",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dew",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dig",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "elk",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fan",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fog",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fox",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gem",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hay",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ice",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ivy",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "log",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mud",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nut",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oak",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "orb",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "owl",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "paw",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pet",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pod",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pop",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ray",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rib",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rip",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sea",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "see",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sin",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sky",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sod",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "son",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sun",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tag",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tee",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "top",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tub",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "van",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "web",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "yam",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "yay",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zen",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zip",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "wordLength": 4,
+      "words": [
+        {
+          "word": "acre",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "aloe",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "arch",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bark",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "beak",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bluf",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bole",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bran",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bulb",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cave",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "clay",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "coal",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "corn",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cove",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dawn",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dune",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dusk",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dust",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fern",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fire",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fish",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fowl",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gale",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "glen",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "haze",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "heat",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "herb",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hill",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hive",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lake",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "leaf",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "loam",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "loch",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mist",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "moon",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "moss",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nest",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "path",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "peak",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rain",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "reed",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rock",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "root",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sand",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "seed",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "snow",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "soil",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "star",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tree",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vine",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "wave",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Medium",
+      "wordLength": 5,
+      "words": [
+        {
+          "word": "bloom",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "birch",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "blaze",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "brook",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cloud",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "coral",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "creek",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "delta",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dunes",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "earth",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ember",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "field",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "flora",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "frost",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "grain",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "grass",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "grott",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gusty",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "haven",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "honey",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "maple",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "misty",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "moonl",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mount",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ocean",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "river",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "savan",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "shade",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "shrub",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "skyli",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "storm",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "surge",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "swamp",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "water",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "winds",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lotus",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "magma",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Hard",
+      "wordLength": 6,
+      "words": [
+        {
+          "word": "canyon",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fungus",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jasper",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lagoon",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lichen",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "meadow",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "orchid",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pebble",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "petals",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pollen",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "quartz",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "valley",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vortex",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "acacia",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "aurora",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "basalt",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "breeze",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cerule",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "clover",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "crater",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "daffod",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dandel",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "desert",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "estuar",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "flower",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "forest",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fossil",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "geyser",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "groves",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hazeln",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "island",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jungle",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mother",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mounds",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "murmur",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "nature",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oxygen",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rapids",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rivers",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "savann",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "shadow",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "solsti",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "spring",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sunset",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tundra",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "walnut",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bamboo",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "permaf",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Advance",
+      "wordLength": 7,
+      "words": [
+        {
+          "word": "iceberg",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "prairie",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "thunder",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "drought",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "glacier",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "horizon",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "monsoon",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pasture",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "seasons",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "willows",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "aloever",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bramble",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "canyons",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cascade",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chesnut",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "climate",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cloverl",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "crystal",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "current",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "daffodi",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ecology",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "estuary",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "evergre",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "flowers",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fogbank",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "foresty",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "geysers",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "habitat",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "juniper",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kelpbed",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lagoonx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lilacbl",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "magmafl",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "meadows",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mineral",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "natural",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "overcas",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oxygena",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "primros",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "reserve",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rootlet",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "savanna",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "seasona",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "skyward",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "springt",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sunbeam",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tempesx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tundran",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Master",
+      "wordLength": 8,
+      "words": [
+        {
+          "word": "lavender",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "blizzard",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cardinal",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "darkness",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rainfall",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "twilight",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "acaciaxl",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "backwate",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bamboozi",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bluebell",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cedarwoo",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chesnuts",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cinnamon",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "crystalz",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "daffodil",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "downpour",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "draughts",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "evergree",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "floeberg",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "frostbit",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "goldmine",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gossamer",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "grasslan",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "icebound",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "junipers",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kelpfore",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lagooner",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lavendel",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "magmatic",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mangrove",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "meadowxl",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mountain",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "overgrow",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "overhung",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "overwood",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pastoral",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "petalike",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rainfore",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "reservoi",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rootstoc",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sandston",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "seashore",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "snowstor",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "springwa",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sunstrea",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tempestu",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "thermalv",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "thunders",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "valencia",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "waterfal",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "whirlwin",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    }
+  ]
+}

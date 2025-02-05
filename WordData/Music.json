@@ -1,0 +1,1818 @@
+{
+  "categoryType": "Music",
+  "categoryId": 15,
+  "Levels": [
+    {
+      "difficulty": "Novice",
+      "wordLength": 3,
+      "words": [
+        {
+          "word": "amp",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bar",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bow",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bpm",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cab",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cho",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cle",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "doh",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "duo",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fan",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gig",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hit",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hum",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "key",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mic",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mix",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mod",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mot",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oct",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pan",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pic",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pop",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rim",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sax",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "set",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sin",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sit",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sol",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sop",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tap",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ten",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tom",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tri",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tun",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "van",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vib",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vox",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "wow",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "xyl",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "yay",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zip",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "zoo",
+          "length": 3,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Easy",
+      "wordLength": 4,
+      "words": [
+        {
+          "word": "bass",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "aria",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "auto",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "band",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "beat",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bell",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bolo",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "capo",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "choi",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chop",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "coda",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cymb",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "drop",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "drum",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "echo",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "etud",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fret",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gong",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "harp",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jazz",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "keys",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lofi",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lute",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lyre",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "midi",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mode",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mute",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "note",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "oboe",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pick",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pipe",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "raga",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "reed",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "riff",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rock",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "solo",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "song",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sync",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tabl",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tone",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "trem",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tune",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vamp",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vega",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "wham",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "wood",
+          "length": 4,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Medium",
+      "wordLength": 5,
+      "words": [
+        {
+          "word": "cello",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pluck",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tempo",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tenor",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "adlib",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "album",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "anthe",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "banjo",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bassy",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "beats",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "blues",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "brass",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cabal",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "caden",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "carol",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chime",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chord",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "choir",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "clave",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cover",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "crash",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ditty",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "drumz",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "echoe",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fader",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "flute",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "grand",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hitop",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "humdr",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "intro",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ivory",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "keysw",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "licks",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "major",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "metal",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "minor",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "motif",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "music",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "notes",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "organ",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "piano",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pitch",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "quint",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "remix",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "saxon",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "scale",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sharp",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sitar",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "snare",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sound",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "synth",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tabla",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lofiX",
+          "length": 5,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Hard",
+      "wordLength": 6,
+      "words": [
+        {
+          "word": "harmon",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jingle",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "accord",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "anthem",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "arpegg",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "balala",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "banger",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "barcar",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "basson",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bellow",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bender",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bolero",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bowedp",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cabasa",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "carols",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "celloX",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chimes",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chorus",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cymbal",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dabble",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "damper",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dulcet",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "effect",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fiddle",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "finger",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "folias",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gamaka",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gigueX",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "gospel",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "groove",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "guitar",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hammer",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "honkyX",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "hurdyg",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jazzyX",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "juggal",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "kazooX",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "keytar",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "luthie",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "lyrics",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "maraca",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mutesX",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "octave",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "operaX",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "organs",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "panpip",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pedals",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pickin",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "plagal",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rattle",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "reggae",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rhythm",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sonata",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vocals",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "euphon",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "glocke",
+          "length": 6,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Advance",
+      "wordLength": 7,
+      "words": [
+        {
+          "word": "acapell",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "accordi",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "backbea",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "balafon",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bongoes",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cabaret",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cantata",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "castane",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "choralx",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "clarine",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "cymbals",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "downbea",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "falseto",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fiddler",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fugueXX",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "handpan",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "harmoni",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "headvoi",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "improvi",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "inverts",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jamming",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jazzman",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "keyboar",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "madriga",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mandoli",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "megahit",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "melisma",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "musette",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "octaveX",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "overtun",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pedalst",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "piccolo",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pizzica",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "refrain",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "riffing",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rondoXX",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sampler",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "songwir",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "steelgu",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "strumbe",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "surdoXX",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "tablatu",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "trombon",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "ukulele",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "xylopho",
+          "length": 7,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    },
+    {
+      "difficulty": "Master",
+      "wordLength": 8,
+      "words": [
+        {
+          "word": "arranger",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "concerto",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "acoustic",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "backbeat",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "balladry",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bassline",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "beatsync",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bluegras",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "bongodru",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "canticle",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "celestas",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "chantson",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "choirmas",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "clarinet",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "clavinet",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "drumroll",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "dulcimer",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "euphonic",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "falsetto",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "fingerbo",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "flamenco",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "glockens",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "grandpno",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "harmonix",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "headvoic",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "improvis",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jamtrack",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "jazzfest",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "keynotes",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "luteplay",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "mandolin",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "marimbas",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "melotron",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "modulate",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "musicbox",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "overture",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pentaton",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "piccoloX",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "pizzicat",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "recorder",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "remixing",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rhapsody",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "rockstar",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "saxophon",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "sheetmus",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "synthesr",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "symphony",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "timbreXX",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "trombone",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "vibraphn",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        },
+        {
+          "word": "xylophon",
+          "length": 8,
+          "Status": 0,
+          "Streak": 0
+        }
+      ]
+    }
+  ]
+}
